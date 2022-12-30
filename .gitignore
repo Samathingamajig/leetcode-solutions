@@ -1,5 +1,7 @@
-# Created by https://www.toptal.com/developers/gitignore/api/node,rust,deno,python
+# Started by https://www.toptal.com/developers/gitignore/api/node,rust,deno,python
 # Edit at https://www.toptal.com/developers/gitignore?templates=node,rust,deno,python
+
+**/*.DS_STORE
 
 ### Deno ###
 /node_modules
