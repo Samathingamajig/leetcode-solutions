@@ -1,4 +1,5 @@
 [workspace]
 members = [
     "l0071-simplify-path",
+    "l2456-most-popular-video-creator",
 ]
