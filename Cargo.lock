@@ -7,5 +7,9 @@ name = "l0071-simplify-path"
 version = "0.0.0"
 
 [[package]]
+name = "l1910-remove-all-occurences-of-a-substring"
+version = "0.1.0"
+
+[[package]]
 name = "l2456-most-popular-video-creator"
 version = "0.0.0"

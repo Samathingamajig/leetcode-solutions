@@ -1,5 +1,6 @@
 [workspace]
 members = [
     "l0071-simplify-path",
+    "l1910-remove-all-occurences-of-a-substring",
     "l2456-most-popular-video-creator",
 ]
